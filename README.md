@@ -40,9 +40,11 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+B
      </br>  
      
 
-# Dark Juice WhatsApp OTP Hacker
+# WhatsApp Bann Master
+![Screenshot_20220919-235623-1](https://user-images.githubusercontent.com/100421286/191132642-dc983e0a-0166-4ae8-a33d-dbbad6758193.jpg)
 
-# INSTALLATION
+# Tutorials Video
+Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
 ```
 Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
 ```
