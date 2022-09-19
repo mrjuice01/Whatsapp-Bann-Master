@@ -14,9 +14,12 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+B
     </a>
 </p>
 
-![alt text](https://github.com/mrjuice01.png)
+
 # Coded by Mr Juice
-# Follow My Accounts Below
+# Follow All my Accounts Below
+
+<a href="https://github.com/mrjuice01"><img src="https://github.com/mrjuice01.png?size=100" width="100" height="100">
+    
 
 <p align="center">
   <a href="https://github.com/mrjuice01/BayMax-bot-Beta">
