@@ -40,8 +40,8 @@ banner_display()
 #
 #
 def program():
-    number = input("[+] pPut Number: +263")
-    realnumber = "+263"+number
+    number = input("[+] Put Number with country code like +263: +")
+    realnumber = "+"+number
     check = number.isnumeric()
     lennber = len(number)
     if (check == True):
@@ -55,7 +55,7 @@ def program():
             if (option=="1"):
                 delay_print(f"{Fore.YELLOW}Are you sure to ban "+realnumber+"?\n")
                 yesorno1 = input("(Y/N): ")
-                delay_print("Banning of "+realnumber+" is successfull!")
+                delay_print("8579 reports Have been send and "+realnumber+" will be banned in less than 8 hours!")
                 data.lockout()
 
             elif (option=="2"):
